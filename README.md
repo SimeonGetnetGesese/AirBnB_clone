@@ -1,1 +1,1 @@
-# AirBnB_clone GROUP PROJECT
+# AirBnB_clone Console project
